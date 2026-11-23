@@ -23,4 +23,3 @@ Frequency (λ)
 Relationship between Wavelength and Frequency
 Wave-mechanical Model
 Quanta
-OrbitalAnion - e
