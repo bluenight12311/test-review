@@ -1,0 +1,26 @@
+Dalton Cannonball Model
+Thompson Cathole ray tubes
+Rutherford Gold Foil
+Chadwick
+Proton(mass, charge, location)
+Neutron(mass, charge, location)
+Electron(mass, charge, location)
+Atomic number 
+Mass number 
+Neutral element
+Ion
+Cation
+Anion
+Isotopes(nuclide)
+Average Atomic Mass
+Energy level(how many levels, how they change)
+Relationship between energy level and potential energy
+Ground level
+Relationship between energy level and stability
+Emission spectrum
+Wavelength
+Frequency (λ) 
+Relationship between Wavelength and Frequency
+Wave-mechanical Model
+Quanta
+OrbitalAnion - e
